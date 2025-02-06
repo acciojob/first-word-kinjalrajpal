@@ -4,10 +4,7 @@ function firstWord(s) {
 	
        str.split(" ");
 
-	   console.log('see','stop')
-console.log(' Hello world')
-console.log('12345');
-console.log('')
+	
 
 }
 
