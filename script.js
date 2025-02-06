@@ -2,13 +2,12 @@ function firstWord(s) {
   // your code here
 	    s = s.trim();
 	
-       let space = s.indexOf(" ");
+       str.split(" ");
 
-	   if (space === -1) {
-        return s;
-	  }
-
-	   return s.substring(0, space);
+	   console.log('see','stop')
+console.log(' Hello world')
+console.log('12345');
+console.log('')
 
 }
 
